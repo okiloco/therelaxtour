@@ -1,0 +1,2 @@
+(window.webpackJsonpcrianzaysalud=window.webpackJsonpcrianzaysalud||[]).push([[27],{750:function(a,e,n){"use strict";n.r(e);n(71);var t=n(20),u=n(0),l=n.n(u);t.a.Content;e.default=function(a){return l.a.createElement(l.a.Fragment,null,l.a.createElement("h1",null,"hola aqui va el paquete de cuidad"))}}}]);
+//# sourceMappingURL=27.ac8280b3.chunk.js.map
